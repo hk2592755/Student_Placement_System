@@ -1,0 +1,22 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="Fristname">Fristname</string>
+    <string name="Lastname">Lastnamename</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Confrimpassword">Confrimpassword</string>
+    <string name="Signup">Signup</string>
+    <string name="RigesterNow">Rigester Now</string>
+
+    <string name="Login">Login</string>
+    <string name="password" />
+
+    <string name="Name">Name</string>
+    <string name="my_dashboard">My Dashboard</string>
+
+    <string name="Admin">Admin</string>
+    <string name="TPO">TPO</string>
+    <string name="Student">Student</string>
+
+</resources>
